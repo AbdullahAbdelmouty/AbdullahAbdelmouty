@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdullah Abdelmouty
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me https://www.linkedin.com/in/abdullah-frontend-developer-97b7b5205/
+- 📫 How to reach me abdullah.abdelmuti.ahmed@gmail.com
 
 <!---
 AbdullahAbdelmouty/AbdullahAbdelmouty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
