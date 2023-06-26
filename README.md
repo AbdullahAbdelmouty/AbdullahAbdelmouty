@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahabdelmouty&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahabdelmouty" /> </p>
 
-- 🔭 I’m currently working at [Upwork]([https://khamsat.com/user/abdullahabdelmuti](https://www.upwork.com/freelancers/abdullahabdelmuti)) [khamsat](https://khamsat.com/user/abdullahabdelmuti) 
+- 🔭 I’m currently working at [khamsat](https://khamsat.com/user/abdullahabdelmuti) 
 
 - 🌱 I’m currently learning **Node js, Next JS**
 
