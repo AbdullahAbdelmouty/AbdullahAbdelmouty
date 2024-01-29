@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahabdelmouty&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahabdelmouty" /> </p>
 
-- 🔭 I’m currently working at [khamsat](https://khamsat.com/user/abdullahabdelmuti) 
+- 🔭 I’m currently working at [Tasahel](https://tasahel.com.eg/) 
 
 - 🌱 I’m currently learning **Node js, Next JS**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Full Stack Web developer**
 
 - 📫 How to reach me **abdullah.abdelmuti.ahmed@gmail.com**
 
