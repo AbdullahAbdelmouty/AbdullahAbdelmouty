@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Tasahel](https://tasahel.com.eg/) 
 
-- 🌱 I’m currently learning **Node js, Next JS**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Full Stack Web developer**
 
