@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at [Tasahel](https://tasahel.com.eg/) 
 
-- 🌱 I’m currently learning **Django**
-
 - 💬 Ask me about **Full Stack Web developer**
 
 - 📫 How to reach me **abdullah.abdelmuti.ahmed@gmail.com**
